@@ -1,0 +1,16 @@
+.display{
+	width: 100%;
+	height: 300px;
+}
+.option{
+	float: left;
+}
+.option-bar{
+	display: block;
+	width: 100%;
+	height: 30px;
+}
+.next-btn{
+	display: block;
+	width: 100%;
+}
